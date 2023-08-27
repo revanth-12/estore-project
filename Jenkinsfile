@@ -5,7 +5,7 @@ pipeline {
         git 'MyGitInstallation'
    
         // Specify the name of the Node.js installation
-        nodejs 'NodeJS 14.20.1'
+        nodejs 'NodeJS 16.13.2'
     }
 
     stages {
